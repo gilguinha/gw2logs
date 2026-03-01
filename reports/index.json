@@ -1,0 +1,31 @@
+[
+  {
+    "id": "20260228-200123-rlsc",
+    "title": "Dub Grumble, Radiant Harasho",
+    "commanders": [
+      "Dub Grumble",
+      "Radiant Harasho"
+    ],
+    "dateStart": "2026-02-28T23:01:23.000Z",
+    "dateEnd": "2026-03-01T22:17:55.000Z",
+    "dateLabel": "28/02/2026, 20:01:23 - 01/03/2026, 19:17:55",
+    "url": "https://gilguinha.github.io/gw2logs/?report=20260228-200123-rlsc",
+    "summary": {
+      "borderlandsPct": 0.2777777777777778,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 26,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 10,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 14,
+      "avgEnemySize": 23
+    }
+  }
+]
