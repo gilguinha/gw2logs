@@ -1,31 +1,73 @@
-[
-  {
-    "id": "20260228-200123-rlsc",
-    "title": "Dub Grumble, Radiant Harasho",
-    "commanders": [
-      "Dub Grumble",
-      "Radiant Harasho"
-    ],
-    "dateStart": "2026-02-28T23:01:23.000Z",
-    "dateEnd": "2026-03-01T22:17:55.000Z",
-    "dateLabel": "28/02/2026, 20:01:23 - 01/03/2026, 19:17:55",
-    "url": "https://gilguinha.github.io/gw2logs/?report=20260228-200123-rlsc",
-    "summary": {
-      "borderlandsPct": 0.2777777777777778,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 26,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 10,
-          "color": "#22c55e"
-        }
+{
+  "siteTheme": {
+    "ui": "classic",
+    "paletteId": "Arcane",
+    "kineticFont": "default"
+  },
+  "entries": [
+    {
+      "id": "20260302-235858-g6sg",
+      "title": "Gèorge, Georqe, Illusion Of Fiera",
+      "commanders": [
+        "Gèorge",
+        "Georqe",
+        "Illusion Of Fiera"
       ],
-      "avgSquadSize": 14,
-      "avgEnemySize": 23
+      "dateStart": "2026-03-03T02:58:58.000Z",
+      "dateEnd": "2026-03-04T01:28:45.000Z",
+      "dateLabel": "02/03/2026, 23:58:58 - 03/03/2026, 22:28:45",
+      "url": "https://gilguinha.github.io/gw2logs/?report=20260302-235858-g6sg",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 18,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 35
+      }
+    },
+    {
+      "id": "20260228-200123-rlsc",
+      "title": "Dub Grumble, Radiant Harasho",
+      "commanders": [
+        "Dub Grumble",
+        "Radiant Harasho"
+      ],
+      "dateStart": "2026-02-28T23:01:23.000Z",
+      "dateEnd": "2026-03-01T22:17:55.000Z",
+      "dateLabel": "28/02/2026, 20:01:23 - 01/03/2026, 19:17:55",
+      "url": "https://gilguinha.github.io/gw2logs/?report=20260228-200123-rlsc",
+      "summary": {
+        "borderlandsPct": 0.2777777777777778,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 23
+      }
     }
-  }
-]
+  ]
+}
