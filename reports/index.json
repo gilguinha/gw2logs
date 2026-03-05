@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260304-224137-y9vm",
+      "title": "Georqe",
+      "commanders": [
+        "Georqe"
+      ],
+      "dateStart": "2026-03-05T01:41:37.000Z",
+      "dateEnd": "2026-03-05T03:48:01.000Z",
+      "dateLabel": "04/03/2026, 22:41:37 - 05/03/2026, 00:48:01",
+      "url": "https://gilguinha.github.io/gw2logs/?report=20260304-224137-y9vm",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 30,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260302-235858-g6sg",
       "title": "Gèorge, Georqe, Illusion Of Fiera",
       "commanders": [
