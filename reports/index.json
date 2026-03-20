@@ -6,6 +6,39 @@
   },
   "entries": [
     {
+      "id": "20260319-213831-bmnf",
+      "title": "Georqe",
+      "commanders": [
+        "Georqe"
+      ],
+      "dateStart": "2026-03-20T00:38:31.000Z",
+      "dateEnd": "2026-03-20T03:05:44.000Z",
+      "dateLabel": "19/03/2026, 21:38:31 - 20/03/2026, 00:05:44",
+      "url": "https://gilguinha.github.io/gw2logs/?report=20260319-213831-bmnf",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 16,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 13,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 11,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260304-224137-y9vm",
       "title": "Georqe",
       "commanders": [
