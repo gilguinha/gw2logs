@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260330-182300-ltfh",
+      "title": "Prez Ashtonn",
+      "commanders": [
+        "Prez Ashtonn"
+      ],
+      "dateStart": "2026-03-30T21:23:00.000Z",
+      "dateEnd": "2026-03-30T23:42:20.000Z",
+      "dateLabel": "30/03/2026, 18:23:00 - 30/03/2026, 20:42:20",
+      "url": "https://gilguinha.github.io/gw2logs/?report=20260330-182300-ltfh",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 63,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260329-194644-tmp4",
       "title": "Lightspeed Jack, Prez Ashton, Prez Ashtonn",
       "commanders": [
