@@ -6,6 +6,36 @@
   },
   "entries": [
     {
+      "id": "20260329-194644-tmp4",
+      "title": "Lightspeed Jack, Prez Ashton, Prez Ashtonn",
+      "commanders": [
+        "Lightspeed Jack",
+        "Prez Ashton",
+        "Prez Ashtonn"
+      ],
+      "dateStart": "2026-03-29T22:46:44.000Z",
+      "dateEnd": "2026-03-30T00:42:58.000Z",
+      "dateLabel": "29/03/2026, 19:46:44 - 29/03/2026, 21:42:58",
+      "url": "https://gilguinha.github.io/gw2logs/?report=20260329-194644-tmp4",
+      "summary": {
+        "borderlandsPct": 0.125,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260327-214049-bfgf",
       "title": "Spellbreaker",
       "commanders": [
