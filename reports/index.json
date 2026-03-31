@@ -6,6 +6,35 @@
   },
   "entries": [
     {
+      "id": "20260330-182300-vmyv",
+      "title": "Not Haro, Prez Ashtonn",
+      "commanders": [
+        "Not Haro",
+        "Prez Ashtonn"
+      ],
+      "dateStart": "2026-03-30T21:23:00.000Z",
+      "dateEnd": "2026-03-31T02:34:45.000Z",
+      "dateLabel": "30/03/2026, 18:23:00 - 30/03/2026, 23:34:45",
+      "url": "https://gilguinha.github.io/gw2logs/?report=20260330-182300-vmyv",
+      "summary": {
+        "borderlandsPct": 0.3368421052631579,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 63,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 32,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260330-182300-ltfh",
       "title": "Prez Ashtonn",
       "commanders": [
