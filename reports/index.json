@@ -1,10 +1,30 @@
 {
-  "siteTheme": {
-    "ui": "classic",
-    "paletteId": "Arcane",
-    "kineticFont": "default"
-  },
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20260330-220338-2om7",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
+      ],
+      "dateStart": "2026-03-31T01:03:38.000Z",
+      "dateEnd": "2026-03-31T02:34:45.000Z",
+      "dateLabel": "30/03/2026, 22:03:38 - 30/03/2026, 23:34:45",
+      "url": "https://gilguinha.github.io/gw2logs/?report=20260330-220338-2om7",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 32,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 32
+      }
+    },
     {
       "id": "20260330-182300-vmyv",
       "title": "Not Haro, Prez Ashtonn",
