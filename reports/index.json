@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260331-231418-4hoc",
+      "title": "Rizem Withthe Tizim",
+      "commanders": [
+        "Rizem Withthe Tizim"
+      ],
+      "dateStart": "2026-04-01T02:14:18.000Z",
+      "dateEnd": "2026-04-01T03:06:34.000Z",
+      "dateLabel": "31/03/2026, 23:14:18 - 01/04/2026, 00:06:34",
+      "url": "https://gilguinha.github.io/gw2logs/?report=20260331-231418-4hoc",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 18,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260330-220338-2om7",
       "title": "Not Haro",
       "commanders": [
