@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260414-213227-pf00",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
+      ],
+      "dateStart": "2026-04-15T00:32:27.000Z",
+      "dateEnd": "2026-04-15T01:43:44.000Z",
+      "dateLabel": "14/04/2026, 21:32:27 - 14/04/2026, 22:43:44",
+      "url": "https://gilguinha.github.io/gw2logs/?report=20260414-213227-pf00",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260331-231418-4hoc",
       "title": "Rizem Withthe Tizim",
       "commanders": [
